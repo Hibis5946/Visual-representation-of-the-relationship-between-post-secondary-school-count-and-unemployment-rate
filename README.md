@@ -3,7 +3,7 @@ This project integrate three datasets to examine the relationships between secon
 count, unemployment rate, and median household income by States.  
 The repository provide code and available libraries to create regression lines, providing a visual representation of the 
 relationships between the unemployment rate (y-axis), the number of post-secondary schools by state (x-axis), 
-the 2022 national median household income (x-axis). Ultimately, I will offer recommendations to the political 
+the 2022 national median household income (x-axis). Ultimately, it also offers recommendations to political 
 leaders of these counties based on my findings.  
 Data sources: 
 I used data from the following sources to accomplish this project.  - - - 
